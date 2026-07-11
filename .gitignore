@@ -1,0 +1,5 @@
+.HyperGuard_error.log
+__pycache__
+*.pyc
+*.zip
+*.apk
